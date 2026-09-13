@@ -35,4 +35,6 @@ class Assets {
   static const String imagesRoute = "assets/images/route_image.png";
   static const String routeLogo = 'assets/images/route_logo.png';
   static const String routeSplash = 'assets/images/splash_logo.png';
+  static const String elipsesTop = 'assets/images/Ellipse_top.png';
+  static const String elipsesBottom = 'assets/images/Ellipse_bottom.png';
 }
